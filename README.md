@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3>👋 Hello</h3>
+      <h3>Hello</h3>
       <p>Halo, saya Sayyidina—full-stack developer yang suka mengubah alur rumit menjadi produk web yang terasa ringan.</p>
       <p>Saya paling betah saat merapikan interface, memangkas friction, dan menjaga codebase tetap masuk akal ketika fitur bertambah.</p>
     </td>
