@@ -1,4 +1,4 @@
-<img width="100%" src="./.hero-console.svg" alt="Sayyidina Anshari Ahmad — Full-stack Developer">
+<img width="100%" src="./hero-console.svg" alt="Sayyidina Anshari Ahmad — Full-stack Developer">
 
 <p align="center">
   <a href="mailto:sayyidinaanshari@gmail.com">
